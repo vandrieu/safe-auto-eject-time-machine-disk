@@ -52,7 +52,7 @@ sudo crontab -e # (must use sudo else diskutil won't execute)
 
 ## Caveats
 
-This solution won't help you if your Time Machine external disk is almost always connected to your MacBook, because once the script ejects it, it will stay ejected as long as you don't plug it out and back in manually. Which means the backup will be less frequent, so they will run longer, so the risk you unplug your MacBook during a backup is high.
+This solution won't help you if your Time Machine external disk is connected to your MacBook for many days or weeks in a row, because once the script ejects it, it will stay ejected as long as you don't plug it out and back in manually. Which means the backup will be less frequent, so they will run longer, so the risk you unplug your MacBook during a backup is high.
 
 Also, even if the disk is ejected right after the backup is done, there is still a risk you decide to leave your office in the middle of the backup and damage the disk. That's why it's important to have it run at least once a day, so that the backup takes less time and the disk is running as little time as possible every day.
 
