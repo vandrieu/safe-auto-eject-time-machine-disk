@@ -9,7 +9,7 @@ I killed my last Time Machine external disk because of this. ☠️
 
 As soon as the Time Machine external disk is plugged in, start a Time Machine backup (unless one was already done today in which case I skip it) and then eject the disk safely. ✅
 
-This means when I undock my MacBook, even if I forget about my external disk, it probably ejected a long time, so the risk of damaging it is decreased a lot.
+This means when I undock my MacBook, even if I forget about my external disk, it probably ejected a long time ago, so the risk of damaging it is decreased a lot.
 
 ## Pseudo code
 
