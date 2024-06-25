@@ -3,7 +3,7 @@
 I dock my MacBook (to external monitors and devices) every morning when I get to my office, and undock when I leave my office or when I go to a meeting in the middle of the day.
 As a rather absent-minded guy, I often undock my MacBook without thinking my Time Machine external hard drive might be writing data.
 
-I killed my last Time Machine external disk because of this. ☠️
+I bricked my last Time Machine external disk because of this. ☠️
 
 ## The solution that suits me
 
