@@ -16,7 +16,7 @@ This means when I undock my MacBook, even if I forget about my external disk, it
 Every minute (using crontab), do:
 1. Check if a Time Machine backup is currently running. If yes, do nothing and exit, else goto 2.
 2. Check if the last Time Machine backup is older than today. If yes, start the backup (it's an async command) and exit, else, goto 3.
-3. Unmount and eject the disk safely.
+3. Unmount and eject the disk safely. The disk is powered off for the rest of the day.
 
 ## Installation
 
