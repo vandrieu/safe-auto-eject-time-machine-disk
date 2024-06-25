@@ -45,7 +45,7 @@ chmod +x time_machine_backup_and_eject.sh
 5. If the test worked (the script ejected the disk), then add it as a crontab job:
 
 ```
-sudo crontab -e # (must use sudo else diskutil won't work)
+sudo crontab -e # (must use sudo else diskutil won't execute)
 
 * * * * *      /full/path/to/script/time_machine_backup_and_eject.sh >/dev/null 2>&1
 ```
